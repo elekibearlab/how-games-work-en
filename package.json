@@ -1,0 +1,9 @@
+{
+  "name": "how-games-work-en",
+  "private": true,
+  "description": "Samples for How Games Work: Basics (settings to run the JavaScript versions as ES modules, and the command to start the 3D versions)",
+  "type": "module",
+  "scripts": {
+    "play-3d": "npx --yes serve@14.2.4 07_ai_3d_games"
+  }
+}
